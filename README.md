@@ -14,7 +14,7 @@ Geographic data can sometimes make quick work of detecting anomalous or maliciou
 
 ## Prerequisites
 - See `requirements.txt` for Python modules
-- Download and unpack `GeoLiteCity.dat` from http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz
+- Download and unpack `GeoLiteCity.dat` from https://src.fedoraproject.org/lookaside/pkgs/GeoIP/GeoLiteCity.dat.gz/2ec4a73cd879adddf916df479f3581c7/GeoLiteCity.dat.gz
 
 ## Usage
 1. Export a Login Activity report from https://admin.google.com/AdminHome?fral=1#Reports:subtab=login-audit
